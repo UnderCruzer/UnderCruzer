@@ -9,9 +9,9 @@ I'm a passionate developer interested in app programming.
 ## 🛠️ My Skills
 
 - Languages: Flutter, Python, JS/TS, Java
-- Frameworks:** Spring, React
-- Databases:** MySQL, Oracle
-- Tools:** Git
+- Frameworks: Spring, React
+- Databases: MySQL, Oracle
+- Tools: Git
 
 
 ## 📊 Competition participation history
