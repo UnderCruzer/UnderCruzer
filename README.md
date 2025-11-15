@@ -1,32 +1,26 @@
-# Hi there 👋, I'm UnderCruzer!
+# Hi there,  I'm UnderCruzer!
 
-I'm a passionate developer interested in various technologies.
+## 👋 Brief introduction
 
-## 🚀 About Me
+Inha Technical College Computer Science 22 
+I'm a passionate developer interested in app programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 ## 🛠️ My Skills
 
-- **Languages:** C++, Python, Java
-- **Frameworks:** Spring, Django, React
-- **Databases:** MySQL, Oracle, MongoDB
-- **Tools:** Git, Docker, Jenkins
+- **Languages: Flutter, Python, JS/TS, Java
+- **Frameworks:** Spring, React
+- **Databases:** MySQL, Oracle
+- **Tools:** Git
 
-## 📊 My GitHub Stats
 
-[![UnderCruzer's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnderCruzer&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnderCruzer&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 Competition participation history
+
+- 2025년 현대오토에버 배리어프리 공모전 예선진출
+- 2025년 게이트고메코리아 시스템 개발 공모전 수상
+
 
 ## 🤝 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/your-username/)
-- [Twitter](https://twitter.com/your-username)
-- [Portfolio](https://your-portfolio.com)
+- [instagram](https://www.instagram.com/ll_mjin/)
+- [backjoon](https://www.acmicpc.net/user/firstsalmon)
