@@ -22,5 +22,5 @@ I'm a passionate developer interested in app programming.
 
 ## 🤝 Let's Connect!
 
-- [instagram](https://www.instagram.com/ll_mjin/)
-- [backjoon](https://www.acmicpc.net/user/firstsalmon)
+- [instagram](https://www.instagram.com/mebxsaint/)
+
