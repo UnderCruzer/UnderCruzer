@@ -8,18 +8,21 @@ I'm a passionate developer interested in app programming .
 
 ## 🛠️ My Skills
 
-🛠️ Tech Stack
+**Mobile / Frontend**
+- Flutter / Dart, React / TypeScript
 
-Mobile / Frontend
+**Backend**
+- Python / FastAPI, Java / Spring Boot
 
+**AI / LLM**
+- Claude API, Gemini API, OpenAI (Whisper, GPT)
+- RAG Pipeline, LLM Evaluation, Prompt Engineering
 
-Flutter / Dart, React / TypeScript
+**DB / Infra**
+- MySQL, Oracle, Supabase (PostGIS), Docker
 
-
-Backend
-
-
-Python / FastAPI, Java / Spring Boot
+**Tools**
+- Git, Jira, Confluence, Slack API
 
 
 AI / LLM
