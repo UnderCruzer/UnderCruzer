@@ -1,5 +1,5 @@
 # Hi there,  I'm UnderCruzer!
-**AI-Native AX & App Developer
+**AI-Native AX & App Developer**
 ## 👋 Brief introduction
 
 Inha Technical College Computer Science 22 
