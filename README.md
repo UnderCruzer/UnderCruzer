@@ -1,10 +1,9 @@
 # Hi there,  I'm UnderCruzer!
-
+**AI-Native AX & App Developer
 ## 👋 Brief introduction
 
 Inha Technical College Computer Science 22 
-I'm a passionate developer interested in app programming .
-
+Flutter · Python · AI 통합을 중심으로 접근성과 에이전트 경험(AX)에 특화된 프로젝트를 개발하고 있습니다.
 
 ## 🛠️ My Skills
 
@@ -23,25 +22,6 @@ I'm a passionate developer interested in app programming .
 
 **Tools**
 - Git, Jira, Confluence, Slack API
-
-
-AI / LLM
-
-
-Claude API, Gemini API, OpenAI (Whisper, GPT)
-RAG Pipeline, LLM Evaluation, Prompt Engineering
-
-
-DB / Infra
-
-
-MySQL, Oracle, Supabase (PostGIS), Docker
-
-
-Tools
-
-
-Git, Jira, Confluence, Slack API
 
 ## 🚀 Featured Projects
 
