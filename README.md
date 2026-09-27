@@ -41,7 +41,7 @@ Flutter · Python · AI 통합을 중심으로 접근성과 에이전트 경험(
 
 | 프로젝트 | 설명 | 스택 |
 |---|---|---|
-| [마실](https://m.onestore.co.kr/v2/ko-kr/app/0001008725) | 마실 — 2026 한국관광공사 데이터활용공모전 출품작 · 프론트엔드 담당 | Flutter, Spring Boot, TourAPI, Gemini |
+| [마실](https://m.onestore.co.kr/v2/ko-kr/app/0001008725) | 마실 — 2026 한국관광공사 데이터활용공모전 출품작 · PM, 기획, 프론트엔드 담당 | Flutter, Spring Boot, TourAPI, Gemini |
 
 ## 📊 Competition participation history
 
